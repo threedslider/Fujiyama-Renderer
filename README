@@ -79,5 +79,5 @@ designed to handle production image rendering.
 * Extensibility
   + Rendering callbacks - 5 points to hook rendering process
 
-http://fujiyama-renderer.com/
+
 Copyright (c) 2011-2020 Hiroshi Tsubokawa
